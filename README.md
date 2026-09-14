@@ -4,6 +4,4 @@
 - 51.01.CNTT.A
 - Nhóm 6
 - Cấu Trúc: 2611COMP101904-Lap-trinh-Windows
-  - Lab1
-    - Lab1\
-    -
+
