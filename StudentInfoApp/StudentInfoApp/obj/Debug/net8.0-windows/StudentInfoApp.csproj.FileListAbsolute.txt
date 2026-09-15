@@ -1,0 +1,15 @@
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\bin\Debug\net8.0-windows\StudentInfoApp.exe
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\bin\Debug\net8.0-windows\StudentInfoApp.deps.json
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\bin\Debug\net8.0-windows\StudentInfoApp.runtimeconfig.json
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\bin\Debug\net8.0-windows\StudentInfoApp.dll
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\bin\Debug\net8.0-windows\StudentInfoApp.pdb
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentInfoApp.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentInfoApp.AssemblyInfo.cs
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentInfoApp.dll
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\refint\StudentInfoApp.dll
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentInfoApp.pdb
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentInfoApp.genruntimeconfig.cache
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\ref\StudentInfoApp.dll
+C:\Users\pc\Downloads\StudentInfoApp\StudentInfoApp\obj\Debug\net8.0-windows\StudentI.1973EB1F.Up2Date
