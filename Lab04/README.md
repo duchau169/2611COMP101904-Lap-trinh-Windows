@@ -63,64 +63,64 @@ Các ảnh chụp màn hình dưới đây minh chứng chương trình chạy �
 ### 6.1. Thêm sản phẩm - thành công
 Thêm SP002 - Sữa bò, giá 20.000, SL 10 → thêm thành công, phát event `[EVENT] Da them san pham '002 - Sua bo' vao kho.`
 
-![Them san pham thanh cong](screenshots/01_them_thanh_cong.png)
+![Them san pham thanh cong](images/01_them_thanh_cong.png)
 
 ### 6.2. Xuất danh sách
 In toàn bộ danh sách sản phẩm hiện có, đầy đủ mã, tên, giá, số lượng và thành tiền.
 
-![Xuat danh sach](screenshots/02_xuat_danh_sach.png)
+![Xuat danh sach](images/02_xuat_danh_sach.png)
 
 ### 6.3. Tìm sản phẩm theo mã
 Nhập mã `001` → tìm thấy và in đúng thông tin sản phẩm tương ứng.
 
-![Tim theo ma](screenshots/03_tim_theo_ma.png)
+![Tim theo ma](images/03_tim_theo_ma.png)
 
 ### 6.4. Tìm sản phẩm theo tên
 Nhập từ khóa `bo` → in ra sản phẩm có tên chứa từ khóa (dùng `Func<Product,bool>` trong `Search`).
 
-![Tim theo ten](screenshots/04_tim_theo_ten.png)
+![Tim theo ten](images/04_tim_theo_ten.png)
 
 ### 6.5. Lọc theo khoảng giá
 Nhập khoảng giá 3.000 - 20.000 → chỉ in các sản phẩm có giá trong khoảng, dùng `Func<Product,bool>` trong `Filter`.
 
-![Loc theo khoang gia](screenshots/05_loc_theo_khoang_gia.png)
+![Loc theo khoang gia](images/05_loc_theo_khoang_gia.png)
 
 ### 6.6. Xóa sản phẩm - thành công
 Xóa mã `002` đang tồn tại → xóa thành công, phát event `[EVENT] Da xoa san pham '002 - Sua bo' khoi kho.`
 
-![Xoa san pham thanh cong](screenshots/06_xoa_thanh_cong.png)
+![Xoa san pham thanh cong](images/06_xoa_thanh_cong.png)
 
 ### 6.7. Tính tổng giá trị kho
 Tổng giá trị kho = Σ (đơn giá × số lượng) của tất cả sản phẩm hiện có, ra đúng kết quả `88.000`.
 
-![Tinh tong gia tri kho](screenshots/07_tinh_tong_gia_tri_kho.png)
+![Tinh tong gia tri kho](images/07_tinh_tong_gia_tri_kho.png)
 
 ### 6.8. Chọn menu không hợp lệ
 Nhập `8` (ngoài khoảng 0-7) → chương trình báo "Lua chon khong hop le. Vui long chon lai.", không crash.
 
-![Menu lua chon khong hop le](screenshots/08_menu_lua_chon_khong_hop_le.png)
+![Menu lua chon khong hop le](images/08_menu_lua_chon_khong_hop_le.png)
 
 ### 6.9. Thêm sản phẩm - đơn giá không phải số
 Nhập đơn giá `abc` → chương trình báo lỗi "Don gia phai la mot so." và yêu cầu nhập lại, không crash.
 
-![Them don gia khong phai so](screenshots/09_them_don_gia_khong_phai_so.png)
+![Them don gia khong phai so](images/09_them_don_gia_khong_phai_so.png)
 
 ### 6.10. Tìm theo mã - mã không tồn tại
 Nhập mã `002` (đã bị xóa trước đó) → chương trình báo "Khong tim thay san pham co ma nay.", không crash.
 
-![Tim theo ma khong ton tai](screenshots/10_tim_theo_ma_khong_ton_tai.png)
+![Tim theo ma khong ton tai](images/10_tim_theo_ma_khong_ton_tai.png)
 
 ### 6.11. Thêm sản phẩm - đơn giá âm
 Nhập đơn giá `-1000` → chương trình báo "Don gia khong duoc am." và yêu cầu nhập lại.
 
-![Them don gia am](screenshots/11_them_don_gia_am.png)
+![Them don gia am](images/11_them_don_gia_am.png)
 
 ### 6.12. Xóa sản phẩm - mã không tồn tại (exception)
 Nhập mã `007` không có trong kho → `ProductNotFoundException` được ném và bắt đúng, in "Loi: Khong tim thay san pham co ma '007'.", chương trình không dừng đột ngột.
 
-![Xoa ma khong ton tai exception](screenshots/12_xoa_ma_khong_ton_tai_exception.png)
+![Xoa ma khong ton tai exception](images/12_xoa_ma_khong_ton_tai_exception.png)
 
 ### 6.13. Thoát chương trình
 Chọn `0` → chương trình kết thúc bình thường, không lỗi.
 
-![Thoat chuong trinh](screenshots/13_thoat_chuong_trinh.png)
+![Thoat chuong trinh](images/13_thoat_chuong_trinh.png)
