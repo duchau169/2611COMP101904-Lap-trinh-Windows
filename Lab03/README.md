@@ -47,57 +47,57 @@ Các ảnh chụp màn hình dưới đây minh chứng chương trình chạy �
 ### 4.1. Thêm sinh viên - thành công
 Thêm SV002 - Nguyễn Văn A, điểm 7 → thêm thành công, xếp loại tự động tính (Giỏi).
 
-![Them sinh vien thanh cong](screenshots/01_them_sinh_vien.png)
+![Them sinh vien thanh cong](images/01_them_sinh_vien.png)
 
 ### 4.2. Thêm sinh viên - điểm không hợp lệ
 Nhập điểm 11 (ngoài khoảng 0-10) → chương trình báo lỗi và yêu cầu nhập lại, không bị crash.
 
-![Diem khong hop le](screenshots/02_them_sinh_vien_diem_khong_hop_le.png)
+![Diem khong hop le](images/02_them_sinh_vien_diem_khong_hop_le.png)
 
 ### 4.3. Xuất danh sách
 In toàn bộ danh sách sinh viên hiện có, đầy đủ mã, họ tên, lớp, điểm và xếp loại.
 
-![Xuat danh sach](screenshots/03_xuat_danh_sach.png)
+![Xuat danh sach](images/03_xuat_danh_sach.png)
 
 ### 4.4. Tìm sinh viên theo mã
 Nhập mã `001` → tìm thấy và in đúng thông tin sinh viên tương ứng.
 
-![Tim theo ma](screenshots/04_tim_theo_ma.png)
+![Tim theo ma](images/04_tim_theo_ma.png)
 
 ### 4.5. Tìm sinh viên theo tên
 Nhập từ khóa họ tên → in ra tất cả sinh viên có tên chứa từ khóa đó (dùng LINQ `Where`).
 
-![Tim theo ten](screenshots/05_tim_theo_ten.png)
+![Tim theo ten](images/05_tim_theo_ten.png)
 
 ### 4.6. Sửa điểm trung bình
 Nhập mã `002`, điểm mới = 8 → cập nhật thành công.
 
-![Sua diem](screenshots/06_sua_diem.png)
+![Sua diem](images/06_sua_diem.png)
 
 ### 4.7. Xóa sinh viên - mã không tồn tại
 Nhập mã không có trong danh sách → chương trình thông báo không tìm thấy, không crash.
 
-![Xoa ma khong ton tai](screenshots/07_xoa_ma_khong_ton_tai.png)
+![Xoa ma khong ton tai](images/07_xoa_ma_khong_ton_tai.png)
 
 ### 4.8. Xóa sinh viên - thành công
 Nhập mã hợp lệ đang tồn tại → xóa thành công khỏi danh sách.
 
-![Xoa sinh vien thanh cong](screenshots/08_xoa_sinh_vien_thanh_cong.png)
+![Xoa sinh vien thanh cong](images/08_xoa_sinh_vien_thanh_cong.png)
 
 ### 4.9. Sắp xếp theo điểm giảm dần
 Dùng LINQ `OrderByDescending` để sắp xếp và in danh sách theo điểm từ cao xuống thấp.
 
-![Sap xep theo diem](screenshots/09_sap_xep_theo_diem.png)
+![Sap xep theo diem](images/09_sap_xep_theo_diem.png)
 
 ### 4.10. Lọc sinh viên đạt
 Dùng LINQ `Where(diem >= 5)` để lọc và chỉ in các sinh viên đạt.
 
-![Loc sinh vien dat](screenshots/10_loc_sinh_vien_dat.png)
+![Loc sinh vien dat](images/10_loc_sinh_vien_dat.png)
 
 ### 4.11. Thoát chương trình
 Chọn `0` → chương trình kết thúc bình thường, không lỗi.
 
-![Thoat chuong trinh](screenshots/11_thoat_chuong_trinh.png)
+![Thoat chuong trinh](images/11_thoat_chuong_trinh.png)
 
 ## 5. Ghi chú
 
