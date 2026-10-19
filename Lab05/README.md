@@ -2,7 +2,7 @@
 
 Bài Lab buổi 5 – COMP1019 Lập trình trên Windows.
 
-- Họ tên: ……………………  MSSV: ……………………  Lớp: ……………………
+- Họ tên: Nguyễn Trọng Đức Hậu  MSSV: 51.01.104.025
 
 ## 1. Giới thiệu
 Ứng dụng Windows Forms (C#, .NET 8) dùng để đăng ký khóa học. Dữ liệu chỉ xử lý trên Form, không lưu cơ sở dữ liệu.
