@@ -5,9 +5,8 @@
 
 | Thông tin sinh viên | |
 |---|---|
-| Họ và tên | ……………………………… |
-| MSSV | ……………………………… |
-| Lớp | ……………………………… |
+| Họ và tên | Nguyễn Trọng Đức Hậu |
+| MSSV | 51.01.104.025 |
 
 ## 1. Giới thiệu
 
