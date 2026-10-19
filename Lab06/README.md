@@ -1,7 +1,7 @@
 # ProductManager - Quản lý sản phẩm
 
 **Môn học:** COMP1019 - Lập trình trên Windows
-**Bài thực hành:** Lab 05 - Windows Forms nâng cao và DataGridView
+**Bài thực hành:** Lab 06 - Windows Forms nâng cao và DataGridView
 
 | Thông tin sinh viên | |
 |---|---|
