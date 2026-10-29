@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>QLSinhVienLab12</RootNamespace>
+    <AssemblyName>QLSinhVienLab12</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Thư viện kết nối SQL Server (tự được tải khi build, cần Internet lần đầu) -->
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+  </ItemGroup>
+
+</Project>
