@@ -1,0 +1,17 @@
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\bin\Debug\net10.0-windows7.0\StudentReportDemo.exe
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\bin\Debug\net10.0-windows7.0\StudentReportDemo.deps.json
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\bin\Debug\net10.0-windows7.0\StudentReportDemo.runtimeconfig.json
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\bin\Debug\net10.0-windows7.0\StudentReportDemo.dll
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\bin\Debug\net10.0-windows7.0\StudentReportDemo.pdb
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.AssemblyInfoInputs.cache
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.AssemblyInfo.cs
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.csproj.CoreCompileInputs.cache
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.dll
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\refint\StudentReportDemo.dll
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.pdb
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.genruntimeconfig.cache
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\ref\StudentReportDemo.dll
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentR.092FE807.Up2Date
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.Forms.FrmBaoCaoSinhVien.resources
+C:\Users\99966\Downloads\Lab13\Lab13\StudentReportDemo\obj\Debug\net10.0-windows7.0\StudentReportDemo.csproj.GenerateResource.cache
